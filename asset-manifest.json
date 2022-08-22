@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/parallel-learning-take-home/static/css/main.31c623c2.css",
+    "main.js": "/parallel-learning-take-home/static/js/main.07dc41c5.js",
+    "index.html": "/parallel-learning-take-home/index.html",
+    "main.31c623c2.css.map": "/parallel-learning-take-home/static/css/main.31c623c2.css.map",
+    "main.07dc41c5.js.map": "/parallel-learning-take-home/static/js/main.07dc41c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31c623c2.css",
+    "static/js/main.07dc41c5.js"
+  ]
+}
