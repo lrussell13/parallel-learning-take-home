@@ -1,6 +1,6 @@
 # About
 
-Parallel Learning Take Home React Test. You can either clone the repo and follow the instructions below or visit the live version here: []()
+Parallel Learning Take Home React Test. You can either clone the repo and follow the instructions below or visit the live version here: [https://lrussell13.github.io/parallel-learning-take-home/](https://lrussell13.github.io/parallel-learning-take-home/)
 
 ## Available Scripts
 
